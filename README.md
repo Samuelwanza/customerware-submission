@@ -60,23 +60,25 @@
 
 <details>
   <summary>Client</summary>
-  <p></p>
+  <p>
+  The frontend is implemented in HML,CSS and Vanilla Javascript
+  </p>
 </details>
 
 <details>
   <summary>Server</summary>
-  <p></p>
+  <p>
+    The server is implemented in flask with scitlearn, pandas,joblib,flask-cors as dependencies
+  </p>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Prediction]**
+- **[GoodUI]**
+- **[ReliableOutput]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,8 +93,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
