@@ -39,6 +39,11 @@
 
 **[customerware]** is a model that predicts whether customers will leave a company or not and more specifically in the telecommunication industry
 
+- [Video Link](https://drive.google.com/file/d/1s7rLOqwemTrCtGrABLowhAAFGpJPFGK7/view?usp=sharing)
+- [Deployed Model](https://customerware-frontend.vercel.app/)
+- [Backend Repositiory](https://github.com/Ednah-Akoth/AI_flask)
+- [Frontend Repository](https://github.com/Samuelwanza/customerware-frontend)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -47,7 +52,7 @@
   <summary>Model</summary>
   <p>
     For the model we mainly used Jupyter notebook for dataset cleaning, feature engineering, feature selection and model traning,validation, valuation and sample deployment.
-    Tools:pandas,matplotlib,scitlearn,xgboost,numpy,
+    Tools:pandas,matplotlib,scitlearn,xgboost,numpy,seaborn
   
   </p>
 </details>
