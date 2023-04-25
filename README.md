@@ -43,6 +43,7 @@
 - [Deployed Model](https://customerware-frontend.vercel.app/)
 - [Backend Repositiory](https://github.com/Ednah-Akoth/AI_flask)
 - [Frontend Repository](https://github.com/Samuelwanza/customerware-frontend)
+- [Colab Link](https://colab.research.google.com/drive/16evrAEfLrcTJqvEa7UDdjVt0FfGr1zm5#scrollTo=cReGnLWuHhQr)
 
 ## 🛠 Built With <a name="built-with"></a>
 
