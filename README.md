@@ -30,42 +30,36 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [❓ FAQ](#faq)
+-
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Customerware] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**[customerware]** is a model that predicts whether customers will leave a company or not and more specifically in the telecommunication industry
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+<details>
+  <summary>Model</summary>
+  <p>
+    For the model we mainly used Jupyter notebook for dataset cleaning, feature engineering, feature selection and model traning,validation, valuation and sample deployment.
+    Tools:pandas,matplotlib,scitlearn,xgboost,numpy,
+  
+  </p>
+</details>
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
+  <p></p>
 </details>
 
 <details>
   <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
+  <p></p>
 </details>
 
 <!-- Features -->
