@@ -100,15 +100,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+- A google account in order to run colab
+- scit-learn, flask-cors,Flask, xgboost for the server
+- You should have python installed
 
 ```sh
- gem install rails
-```
- -->
+sudo apt-get update
+sudo apt-get install python3.6
 
-### Setup
+```
+
+-->
 
 Clone this repository to your desired folder:
 
@@ -121,19 +123,33 @@ Example commands:
 
 ### Install
 
-Install this project with:
+- To run colab use the link:[colab link](https://colab.research.google.com/drive/16evrAEfLrcTJqvEa7UDdjVt0FfGr1zm5#scrollTo=cReGnLWuHhQr)
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
+- To run the [frontend] head to this repository: [customerware frontend](https://github.com/Samuelwanza/customerware-frontend) and clone to choice directory,
 
 ```sh
-  rails server
+  cd choice directory
+  code .
 ```
---->
+
+click Go Live if live server is installed
+
+- To run [server] head to the repository:[customerware](https://github.com/Ednah-Akoth/AI_flask) and clone it to choice directory
+
+```sh
+ cd choice directory
+ code .
+```
+
+```sh
+  pip scit-learn, flask-cors,Flask, xgboost
+  code .
+```
+
+```sh
+  python main.py
+  code .
+```
 
 ### Deployment
 
