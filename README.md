@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="300"  height="auto" />
+  <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Customerware model</b></h3>
@@ -22,8 +22,6 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -138,17 +136,15 @@ click Go Live if live server is installed
 
 ```sh
  cd choice directory
- code .
+ git clone https://github.com/Ednah-Akoth/AI_flask
 ```
 
 ```sh
-  pip scit-learn, flask-cors,Flask, xgboost
-  code .
+  pip install scit-learn, flask-cors,Flask, xgboost
 ```
 
 ```sh
   python main.py
-  code .
 ```
 
 ### Deployment
